@@ -42,4 +42,4 @@ Follow this format exactly
 </details> 
 
 # Privacy Notes
-This info is public, and syndicated to (shared with) [webring-vit.vercel.app](https://webring-vit.vercel.app). So other VIT webring websites, people using RSS feeds/crawlbots, or the Internet Archive, etc. may automatically copy these details any time, without your knowledge. Join the webring and add your details here **only if you're fine with that**.
+This info is public, and syndicated to (shared with) [webring-vit.vercel.app](https://webring-vit.vercel.app). So other VIT webring websites, people using RSS feeds/crawlbots, or the Internet Archive, etc. may automatically copy these details any time, without your knowledge. If you're concerned about privacy doxxing osint or whatever take this into mind. Join the webring and add your details here **only if you're fine with that**.
