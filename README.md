@@ -6,7 +6,7 @@ Add your blog, portfolio, or personal projects/experiments display website here,
 # How to join
 Fork this repository and add your own entry to the end of [members.json](./members.json), keeping all the other entries and format intact. Then file a pull request to this repository, asking to be added.
 
-To make your website link to other websites automatically, [follow this guide:](https://github.com/backdoors-org/webring#how-to-add-prev--next--random-to-your-site)
+To make your website link to other websites automatically, [follow this guide:](https://github.com/backdoors-org/webring#how-to-add-prev--next--random-to-your-site) You need to prepare your website with this before you are added to the webring.
 
 # Format:
 ```json
