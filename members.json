@@ -1,2 +1,10 @@
 [
+  {
+    "id": "lugvitc",
+    "name": "Linux User Group, VIT Chennai",
+    "url": "https://blog.lugvitc.tech",
+    "git_acc": "https://github.com/lugvitc",
+    "batch": "vitc club",
+    "desc": "Linux user group of VIT Chennai. We hold technical events and seminars advocating for Linux/FOSS in VITC"
+  },
 ]
