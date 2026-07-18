@@ -1,2 +1,10 @@
 [
+      {
+            "id": "embeddingbits",
+            "name": "Amiitesh",
+            "url": "https://embeddingbits.is-a.dev",
+            "git_acc": "https://codeberg.org/embeddingbits",
+            "batch": "vitc ecm 24-28",
+            "desc": "Operating Systems, Embedded, Networks and Pianist"
+      }
 ]
