@@ -22,5 +22,13 @@
     "git_acc": "https://github.com/JCKawin",
     "batch": "vitc cse robotics 25-29",
     "desc": "Game Development, Embedded Programming, Robotics"
+  },
+  {
+    "id": "feax",
+    "name": "Gunit",
+    "url": "https://pwnhub.in",
+    "git_acc": "https://github.com/Fexaop",
+    "batch": "vitc cse robotics 25-29",
+    "desc": "Human, Alive,Not dead"
   }
 ]
