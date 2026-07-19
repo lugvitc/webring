@@ -30,5 +30,13 @@
     "git_acc": "https://github.com/Fexaop",
     "batch": "vitc cse robotics 25-29",
     "desc": "Human, Alive,Not dead"
-  }
+  },
+  {
+    "id":"sockyeh",
+    "name": "Sahran",
+    "url": "https://sockyeh.dev",
+    "git_acc": "https://github.com/sockyeh",
+    "batch": "vitc cse 25-29",
+    "desc": "backend dev, \"photographer\""
+  }  
 ]
