@@ -14,5 +14,13 @@
     "git_acc": "https://codeberg.org/embeddingbits",
     "batch": "vitc ecm 24-28",
     "desc": "Operating Systems, Embedded, Networks and Pianist"
+  },
+  {
+    "id": "JCKawin",
+    "name": "jckawin",
+    "url": "https://inizh-website.vercel.app",
+    "git_acc": "https://github.com/JCKawin",
+    "batch": "vitc cse robotics 25-29",
+    "desc": "Game Development, Embedded Programming, Robotics"
   }
 ]
