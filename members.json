@@ -62,5 +62,13 @@
     "git_acc": "https://github.com/TripleRestriction",
     "batch": "vitc cse robotics 26-30",
     "desc": "musician who plays the computer"
-  } 
+  },
+  {
+    "id": "nzec",
+    "name": "Aditya Dutt",
+    "url": "https://nzec.sh/",
+    "git_acc": "https://github.com/nzec",
+    "batch": "vitc cse 21-25",
+    "desc": ""
+  }
 ]
